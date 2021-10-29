@@ -1,0 +1,44 @@
+
+figure > img {
+  width: 400px;
+  height: 300px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+figure {
+  display: inline;
+}
+
+form{
+	justify-content: center;
+	align-items: center;
+}
+
+body{
+  background: rgb(226, 226, 235);
+  background: radial-gradient(circle, rgb(224, 187, 21) 0%, rgb(127, 119, 235) 100%);
+}
+
+.container {
+	display: block;
+  padding-bottom: 50px;
+  margin: 0 auto;
+	justify-content: center;
+	align-items: center;
+  width:400px;
+}
+
+.gifs{ 
+  display: inline;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.main{ 
+  width: 1600px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
